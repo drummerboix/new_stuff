@@ -1,7 +1,7 @@
 import sys
 
 def cat():
-	print('Meow!')
+	print('MEOW!')
 
 def default():
 	print('Hello world')
