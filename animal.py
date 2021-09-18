@@ -7,7 +7,7 @@ def default():
 	print('Hello world')
 
 def dog():
-	print('Woof!')
+	print('WOOF!')
 
 def main():
 	if sys.argv[1] == 'cat':
